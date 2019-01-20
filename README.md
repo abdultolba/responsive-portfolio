@@ -26,3 +26,13 @@ If you are modifying the files in this project, there are some dependencies you 
   - Node.JS
   - `node-sass` which you may install though node using `npm i node-sass`
   - Once you have installed it, run `npm run sass`, whcih will preprocess your SASS into CSS.
+
+## Screenshots
+
+Mobile Home Page           |  Mobile Menu
+:-------------------------:|:-------------------------:
+![Mobile Home](/github_images/ss_2.png?raw=true "Mobile Home")  |  ![Mobile Menu](/github_images/ss_3.png?raw=true "Mobile Menu")
+
+Desktop Home Page |
+:-----------------:
+![Desktop Home](/github_images/ss_1.png?raw=true "Desktop Home") |
